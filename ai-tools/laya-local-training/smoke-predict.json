@@ -1,0 +1,46 @@
+{
+  "model": "laya-rl-agent",
+  "answers": {
+    "task_complexity": {
+      "type": "score",
+      "score": 2.9232,
+      "legend": {
+        "0": "None",
+        "1": "Very low",
+        "2": "Low",
+        "3": "Some",
+        "4": "Moderate",
+        "5": "Moderate to high",
+        "6": "High",
+        "7": "Very high",
+        "8": "Severe",
+        "9": "Extreme"
+      },
+      "probabilities": {
+        "0": 0.0251,
+        "1": 0.1422,
+        "2": 0.2543,
+        "3": 0.2889,
+        "4": 0.0985,
+        "5": 0.1487,
+        "6": 0.0352,
+        "7": 0.0025,
+        "8": 0.0017,
+        "9": 0.0029
+      },
+      "confidence": 0.2404,
+      "answer_confidence": 0.2889,
+      "action": {
+        "act_probability": 1.0
+      }
+    }
+  },
+  "usage": {
+    "input_tokens": 179,
+    "output_tokens": 0,
+    "state_tokens": 91,
+    "state_tokens_dropped": 0,
+    "truncated": false,
+    "truncated_questions": []
+  }
+}

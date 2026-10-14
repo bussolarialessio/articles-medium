@@ -1,0 +1,16 @@
+.DS_Store
+.env
+.env.*
+*.key
+*.pem
+master.key
+node_modules/
+.bundle/
+vendor/bundle/
+.venv/
+__pycache__/
+
+# Local training artifacts
+data/
+checkpoints/
+*.log

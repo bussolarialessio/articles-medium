@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "demo": "node demo.mjs"
+  },
+  "dependencies": {
+    "@bussolabs/laya-router": "0.1.2"
+  }
+}
